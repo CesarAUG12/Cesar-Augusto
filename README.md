@@ -1,5 +1,6 @@
 # Olá, eu sou Cesar Augusto 👋
 Desenvolvedor Front-End | Estudante de Análise e Desenvolvimento de Sistemas
+-📍 São Paulo, SP 
 
 # Sobre Mim 🧑‍💻
 Sou um jovem entusiasta da tecnologia e do desenvolvimento de software, apaixonado por criar soluções que melhoram a experiência do usuário. Tenho experiência no desenvolvimento de interfaces dinâmicas e interativas com React, além de conhecimento em Node.js e Express, onde já desenvolvi APIs eficientes e escaláveis.
