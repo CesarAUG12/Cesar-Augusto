@@ -8,7 +8,7 @@ Tenho 20 anos, sou de São Paulo - SP e sou estudante de Análise e Desenvolvime
 # Contato 📫
 📧 E-mail: cansouza1208@gmail.com
 🔗 LinkedIn: [Cesar Augusto](https://www.linkedin.com/in/cesar-augusto-a56093233/)
-💻 GitHub: CesarAUG12
+💻 GitHub: [CesarAUG12](https://github.com/CesarAUG12/)
 
 # Currículo 📋
 Aqui você encontra mais detalhes sobre minha trajetória, habilidades e experiências.
