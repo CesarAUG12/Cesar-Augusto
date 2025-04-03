@@ -16,12 +16,13 @@ Aqui você encontra mais detalhes sobre minha trajetória, habilidades e experi�
 📎 Veja meu currículo aqui [Cesar Augusto Cv.pdf](https://github.com/user-attachments/files/19593187/Cesar.Augusto.Cv.pdf)
 
 # Linguagens e Tecnologias 🤖
+
 Linguagens: C# .NET, JavaScript, TypeScript, Java
--
+
 Frameworks e Ferramentas: React, Angular, Node.js, Express
--
+
 Banco de Dados: MySQL, MongoDB, Firebase
--
+
 Desenvolvimento Web: HTML, CSS, Tailwind
--
+
 Versionamento: Git, GitHub
