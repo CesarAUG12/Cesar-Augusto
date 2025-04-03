@@ -3,7 +3,11 @@
 Desenvolvedor Front-End | Estudante de Análise e Desenvolvimento de Sistemas
 
 # Sobre Mim 🧑‍💻
-Tenho 20 anos, sou de São Paulo - SP e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Desde 2023, venho me aprofundando em desenvolvimento web e backend, com foco especial em React, TypeScript e C# .NET. Sou apaixonado por tecnologia e sempre busco aprender, enfrentar desafios e contribuir com soluções inovadoras.
+Sou um jovem entusiasta da tecnologia e do desenvolvimento de software, apaixonado por criar soluções que melhoram a experiência do usuário. Tenho experiência no desenvolvimento de interfaces dinâmicas e interativas com React, além de conhecimento em Node.js e Express, onde já desenvolvi APIs eficientes e escaláveis.
+
+Também possuo experiência com C# .NET e Java, o que me permite abordar desafios de forma estruturada e eficiente. Estou sempre em busca de novas tecnologias, aprimorando minhas habilidades e expandindo meu conhecimento para entregar soluções inovadoras e impactantes.
+
+Meu objetivo é contribuir para projetos desafiadores, colaborar com equipes talentosas e ajudar a construir um mundo mais conectado por meio da tecnologia. 🚀
 
 # Contato 📫
 📧 E-mail: cansouza1208@gmail.com
