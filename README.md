@@ -17,7 +17,11 @@ Aqui você encontra mais detalhes sobre minha trajetória, habilidades e experi�
 
 # Linguagens e Tecnologias 🤖
 Linguagens: C# .NET, JavaScript, TypeScript, Java
+-
 Frameworks e Ferramentas: React, Angular, Node.js, Express
+-
 Banco de Dados: MySQL, MongoDB, Firebase
+-
 Desenvolvimento Web: HTML, CSS, Tailwind
+-
 Versionamento: Git, GitHub
