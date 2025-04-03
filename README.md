@@ -1,4 +1,3 @@
-# Cesar-Augusto
 # Olá, eu sou Cesar Augusto 👋
 Desenvolvedor Front-End | Estudante de Análise e Desenvolvimento de Sistemas
 
