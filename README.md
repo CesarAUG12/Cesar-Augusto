@@ -10,10 +10,10 @@ Também possuo experiência com C# .NET e Java, o que me permite abordar desafio
 
 Meu objetivo é contribuir para projetos desafiadores, colaborar com equipes talentosas e ajudar a construir um mundo mais conectado por meio da tecnologia. 🚀
 
-# Contato 📫
-📧 E-mail: cansouza1208@gmail.com
-🔗 LinkedIn: [Cesar Augusto](https://www.linkedin.com/in/cesar-augusto-a56093233/)
-💻 GitHub: [CesarAUG12](https://github.com/CesarAUG12/)
+🔗 **Meus Contatos:**  
+- 📧 Email: [cansouza1208@gmail.com](mailto:cansouza1208@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/cesar-augusto-a56093233/)  
+- 💻 [GitHub](https://github.com/CesarAUG12)  
 
 # Currículo 📋
 Aqui você encontra mais detalhes sobre minha trajetória, habilidades e experiências.
