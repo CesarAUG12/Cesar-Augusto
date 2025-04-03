@@ -13,7 +13,7 @@ Tenho 20 anos, sou de São Paulo - SP e sou estudante de Análise e Desenvolvime
 # Currículo 📋
 Aqui você encontra mais detalhes sobre minha trajetória, habilidades e experiências.
 
-📎 Veja meu currículo aqui 
+📎 Veja meu currículo aqui [Cesar Augusto Cv.pdf](https://github.com/user-attachments/files/19593187/Cesar.Augusto.Cv.pdf)
 
 # Linguagens e Tecnologias 🤖
 Linguagens: C# .NET, JavaScript, TypeScript, Java
